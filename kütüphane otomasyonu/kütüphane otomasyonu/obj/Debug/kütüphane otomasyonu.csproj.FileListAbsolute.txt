@@ -1,0 +1,64 @@
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.pdb
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.giris.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Properties.Resources.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.GenerateResource.Cache
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitap.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrenci.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.odunc.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form1.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.rapor.resources
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\tulml\Desktop\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.pdb
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form1.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.odunc.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.giris.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitap.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrenci.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Properties.Resources.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.rapor.resources
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.GenerateResource.Cache
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\tulml\Desktop\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.pdb
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form1.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.odunc.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.giris.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitap.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrenci.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Properties.Resources.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.rapor.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\Zeguleç\Desktop\Star Wars\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.pdb
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Form1.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.odunc.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.giris.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitap.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrenci.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Properties.Resources.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.rapor.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.GenerateResource.Cache
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\images\184410018-sila karaman-kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\RdlCompile.compiled
